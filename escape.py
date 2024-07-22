@@ -7,8 +7,7 @@
 #La respuesta del programa también debe mostrarse con un texto apropiado:
 #Ejemplo:
 #“La velocidad de Escape es 11174.6 [m/s]”
-#Para verificar el correcto funcionamiento del programa, se puede verificar con los siguientes datos:g = 9.8 [m/s2] r = 6371 [Km], pero para que me de el resultado
-# convierto el valor del radio de kilometros a metros =6371000 m, ya que el resultado está en m/S
+#Para verificar el correcto funcionamiento del programa, se puede verificar con los siguientes datos:g = 9.8 [m/s2] r = 6371 [Km], pero para que me de el resultado convierto el valor del radio de kilometros a metros =6371000 m, ya que el resultado está en m/S
 #Se obtiene como resultado: Velocidad de Escape = 11174.6 [m/s]
 #variables a utilizar
 import math
